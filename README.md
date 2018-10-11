@@ -1,2 +1,3 @@
 # hello-world
-another repository
+Another begginer repository. Hello all.
+
